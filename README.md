@@ -16,4 +16,7 @@ The dataset contains various customer banking details, including demographic inf
   <li>pymnt_plan</li>
 </ul>
 
+<h2> Project Structure </h2>
+
+
 
