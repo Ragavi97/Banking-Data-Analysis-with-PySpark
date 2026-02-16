@@ -23,11 +23,8 @@ Project Structure
 ├── data/
 │ └── banking_dataset.csv # Original dataset
 ├── notebooks/
-│ └── banking_data_analysis.ipynb # Jupyter notebook with PySpark workflow
-├── scripts/
-│ └── data_cleaning.py # PySpark data cleaning scripts
+│ └── banking_project.ipynb # Jupyter notebook with PySpark workflow
 └── README.md # Project README
-
 ```
 
 
