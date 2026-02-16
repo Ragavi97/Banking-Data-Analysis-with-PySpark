@@ -7,3 +7,8 @@ This project involves the exploration, cleaning, and processing of a banking dat
 <h2>Dataset</h2>
 
 The dataset contains various customer banking details, including demographic information, account information, and transactional data. The data was used to demonstrate data cleaning, transformation, and feature engineering using PySpark.
+
+<h3>Key Attributes:</h3>
+<ul><li>id</li>installment<li></li>grade<li></li><li>home_ownership</li><li>pymnt_plan</li></ul>
+
+
