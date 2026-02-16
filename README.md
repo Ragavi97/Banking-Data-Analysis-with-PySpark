@@ -18,5 +18,17 @@ The dataset contains various customer banking details, including demographic inf
 
 <h2> Project Structure </h2>
 
+```
+Project Structure
+├── data/
+│ └── banking_dataset.csv # Original dataset
+├── notebooks/
+│ └── banking_data_analysis.ipynb # Jupyter notebook with PySpark workflow
+├── scripts/
+│ └── data_cleaning.py # PySpark data cleaning scripts
+└── README.md # Project README
+
+```
+
 
 
