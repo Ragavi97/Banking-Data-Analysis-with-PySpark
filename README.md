@@ -27,5 +27,27 @@ Project Structure
 └── README.md # Project README
 ```
 
+## Key Steps / Workflow
+
+### 1. Data Loading
+- Load the dataset into a PySpark DataFrame for distributed processing.
+
+### 2. Data Exploration
+- Check for missing values
+- Identify data types
+- Get summary statistics
+
+### 3. Data Cleaning
+- Handle missing or null values
+- Correct inconsistent data entries
+- Remove duplicates
+
+### 4. Data Transformation
+- Encode categorical variables
+- Normalize or scale numerical features
+- Feature engineering for relevant insights
+
+### 5. Data Aggregation / Analysis
+- Calculate summary metrics (e.g., average bala
 
 
